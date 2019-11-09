@@ -21,7 +21,7 @@ export default function App() {
             <Text style={styles.description}>R$ 1.465,25</Text>
           </View>
           <View style={styles.cardFooter}>
-            <Text style={styles.annotation}>Transferência de R$ 200,00 recebida de Luis Augusto Zamprogna hoje às 9am.</Text>
+            <Text style={styles.annotation}>Transferência de R$ 200,00 recebida de Vítor Rodrigues hoje às 9am.</Text>
           </View>
         </View>
       </View>
